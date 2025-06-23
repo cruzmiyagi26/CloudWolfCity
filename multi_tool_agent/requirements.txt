@@ -1,0 +1,10 @@
+google-adk
+requests
+geopy
+timezonefinder
+fastapi
+uvicorn
+python-dotenv
+pydantic
+googlemaps
+python-dateutil
